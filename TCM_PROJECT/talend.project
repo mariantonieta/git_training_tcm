@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_d-Zsgct0EfCvHK_sCtqE9w" label="TCM_PROJECT" description="" language="java" technicalLabel="TCM_PROJECT" author="_d-Zsgst0EfCvHK_sCtqE9w" productVersion="Talend Cloud Data Management Platform-8.0.1.20250218_0945-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mariantonieta/git_training_tcm.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_eAEgcMt0EfCvHK_sCtqE9w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_d-Zsgst0EfCvHK_sCtqE9w" login="mchacon@trial36934.eu.talend.com" firstName="Mariantonieta" lastName="Chacon" type="DQ"/>
+</xmi:XMI>
